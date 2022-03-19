@@ -2,7 +2,7 @@
 
 Ce Projet est un travail pratique pour le cours de Programmation en C# avec le framework cross plateform .NET Core
 
-Ce projet  réalisé avec le framework .NET Core 6.0.102, cependant le code reste compatible avec .NET Core 5
+Ce projet  réalisé avec le framework .NET Core 6.0, cependant le code reste compatible avec .NET Core 5
 
 ### Travail demandé
 
